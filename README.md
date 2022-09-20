@@ -5,9 +5,9 @@ my first simple server side application.
 
 Endpoints covered:
 
-get all data
-get data by id
-add data
-update data by id
-delete data by id
+1. get all data
+2. get data by id
+3. add data
+4. update data by id
+5. delete data by id
 
