@@ -3,6 +3,13 @@ Endpoints Created on GraphQL to manipulate some dummyData stored in JSON format.
 
 my first simple server side application.
 
+npm modules used:
+
+1. express
+2. graphql
+3. express-graphql
+
+
 Endpoints covered:
 
 1. get all data
